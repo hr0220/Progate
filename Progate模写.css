@@ -1,0 +1,83 @@
+body{
+  font-family:"Avenir Next"
+}
+
+.header{
+  height:90px;
+  background-color:#26d0c9;
+
+}
+
+.header-logo{
+  font-size:36px;
+  padding:20px 40px;
+  float: left;
+
+}
+.header-list li{
+  list-style:none;
+  float: left;
+  padding:33px 22px;
+}
+
+.main{
+  padding:100px 80px;
+}
+
+.main-logo h1{
+  font-size:140px;
+}
+
+.main-logo h2{
+  font-size:60px;
+}
+
+span{
+  color:red;
+}
+
+.lessons{
+  padding:0px 80px;
+  height:500px;
+
+}
+
+.lesson-logo{
+  border-bottom: 2px solid #dee7ec;
+  font-size: 28px;
+  padding-bottom: 15px;
+
+}
+.lesson-item{
+  margin-top:50px;
+  float:left;
+  width:25%;
+}
+.lesson-item p{
+  font-size:24px;
+
+}
+
+.info{
+  padding:100px 80px;
+}
+
+input,textarea{
+  width:400px;
+  margin-bottom: 30px;
+  margin-top:10px;
+  padding:20px;
+
+
+}
+.info-logo{
+  border-bottom: 2px solid #dee7ec;
+  padding-bottom:15px;
+  margin-bottom:50px;
+}
+
+.btn{
+  font-size:28px;
+  background-color:#dee7ec;
+  color:#889eab;
+}
